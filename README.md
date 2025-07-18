@@ -1,5 +1,5 @@
 # Health_care-analysis
-##What are the most common diseases in the last two years? Do they differ by age, gender or region?
+What are the most common diseases in the last two years? Do they differ by age, gender or region?
 What is the effect of other factors such as blood type, type of insurance, or treating physician on the disease?
 Is there a seasonality in hospitalizations (months of stress)?
 What are the most commonly used medications and are the resources enough?
